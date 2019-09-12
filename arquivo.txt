@@ -1,5 +1,5 @@
 a
-a
+break
 int
 asd
 as123
@@ -17,3 +17,6 @@ asd
 -- Teste
 Joao da Silva --
 char
+break
+continue
+const
